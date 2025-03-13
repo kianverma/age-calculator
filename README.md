@@ -1,6 +1,6 @@
 # Age Calculator 🎂  
 
-This repository contains a simple script that calculates your age based on your birth year.  
+This repository contains a simple script that calculates your age based on your birth year!  
 
 ## Code in This Repo  
 ```python
