@@ -6,7 +6,7 @@ This repository contains a simple script that calculates your age based on your 
 ```python
 from datetime import datetime  
 
-birth_year = int(input("Enter your birth year: "))  
+birth_year = int(input("Enter the birth year: "))  
 current_year = datetime.now().year  
 age = current_year - birth_year  
 
